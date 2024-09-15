@@ -65,7 +65,6 @@ streamlit run main.py
 4. **Consultation**: Users can schedule a consultation directly through the app.
 # Example Lawyer Profile
 ```json
-Copy code
 {
     "name": "Adv. Priya Sharma",
     "specialization": "Divorce and Family Law",
