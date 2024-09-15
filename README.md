@@ -1,6 +1,6 @@
-# ⚖️ Viddhi Sathi - AI Legal Assistant
+# ⚖️ Vidhi Saathi - AI Legal Assistant
 
-Welcome to **Viddhi Sathi**, an AI-powered legal assistant designed to help users navigate the Indian judicial system. Viddhi Sathi provides general legal information, recommends specialized lawyers based on the case, and offers next steps for various legal concerns.
+Welcome to **Vidhi Saathi**, an AI-powered legal assistant designed to help users navigate the Indian judicial system. Vidhi Saathi provides general legal information, recommends specialized lawyers based on the case, and offers next steps for various legal concerns.
 
 ## 🚀 Features
 
